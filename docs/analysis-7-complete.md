@@ -11,10 +11,8 @@
 1. **features.md** (السطر 207)
    - `"create prompt for crypto market analysis"`
 
-2. **composer.lock** (السطر 8369)
+2. **composer.lock** (السطور 8369 و 8371)
    - `"description": "A static analysis tool to detect side effects in PHP code",`
-
-3. **composer.lock** (السطر 8371)
    - `"static analysis"`
 
 ---
